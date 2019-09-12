@@ -7,9 +7,9 @@
 
 
 ## Microsoft Azure Cloud Links
- - [Microsoft Open Source Home Page](http://microsoft.com/opensource)
- - [Free $200 Azure Credit](https://azure.microsoft.com/free/?WT.mc_id=aks-github-jessde)
- - [Azure Kubernetes Service](https://docs.microsoft.com/en-us/azure/governance/policy/overview)
+ - [Microsoft Portal](http://portal.azure.com)
+ - [Free $200 Azure Credit](https://azure.microsoft.com/free)
+ - [PolicyHomePage](https://docs.microsoft.com/en-us/azure/governance/policy/overview)
 
 ## Demo Resources
 [SourceCode]https://github.com/rupeshtech/azurepolicy
