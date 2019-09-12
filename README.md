@@ -7,7 +7,7 @@
 
 
 ## Microsoft Azure Cloud Links
- - [Microsoft Portal](http://portal.azure.com)
+ - [Microsoft Portal](https://portal.azure.com)
  - [Free $200 Azure Credit](https://azure.microsoft.com/free)
  - [PolicyHomePage](https://docs.microsoft.com/en-us/azure/governance/policy/overview)
 
@@ -16,7 +16,7 @@
  
 
 ## Other links
- - [Blog](https://rupesh.blog/2019/08/17/apply-lock-on-resource-groups-thru-azure-policy/)
+ - [Blog](http://rupesh.blog/2019/08/17/apply-lock-on-resource-groups-thru-azure-policy)
 
 ## Contact Information
 
