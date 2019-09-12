@@ -10,6 +10,7 @@
  - [Microsoft Portal](https://portal.azure.com)
  - [Free $200 Azure Credit](https://azure.microsoft.com/free)
  - [PolicyHomePage](https://docs.microsoft.com/en-us/azure/governance/policy/overview)
+ - [Policy Effects](https://docs.microsoft.com/en-us/azure/governance/policy/concepts/effects)
 
 ## Demo Resources
 [SourceCode](https://github.com/rupeshtech/azurepolicy)
