@@ -16,8 +16,10 @@
 [SourceCode](https://github.com/rupeshtech/azurepolicy)
  
 
-## Other links
+## Useful posts and videos
  - [Blog](http://rupesh.blog/2019/08/17/apply-lock-on-resource-groups-thru-azure-policy)
+ - [Govern your Azure environment through Azure Policy](https://channel9.msdn.com/Events/Build/2018/THR2030)
+ - [Channel9 Video](https://channel9.msdn.com/Shows/Azure-Friday/Azure-Governance-and-the-latest-updates-on-Azure-Policy)
 
 ## Contact Information
 
