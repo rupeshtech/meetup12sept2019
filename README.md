@@ -12,7 +12,7 @@
  - [PolicyHomePage](https://docs.microsoft.com/en-us/azure/governance/policy/overview)
 
 ## Demo Resources
-[SourceCode]https://github.com/rupeshtech/azurepolicy
+[SourceCode](https://github.com/rupeshtech/azurepolicy)
  
 
 ## Other links
