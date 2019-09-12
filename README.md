@@ -5,7 +5,6 @@
 ## Slides
 [Deck](https://rupeshtech.github.io/slides-azure-policy.html)
 
-[Microsoft Open Source Home Page](http://microsoft.com/opensource)
 
 ## Microsoft Azure Cloud Links
  - [Microsoft Open Source Home Page](http://microsoft.com/opensource)
